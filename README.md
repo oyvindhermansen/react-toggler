@@ -33,4 +33,4 @@ const App = () => {
 }
 ```
 
-> The component also has a `defaultOpen` prop if you want to control the initial state of the toggler# react-toggler
+> The component also has a `defaultOpen` prop if you want to control the initial state of the toggler
